@@ -4,8 +4,9 @@
 
 ## 1. Pandas
 ### 1.1 Pandas tutorials
-教程地址：http://pandas.pydata.org/pandas-docs/stable/tutorials.html
-速 查 表：https://www.dataquest.io/blog/pandas-cheat-sheet/
+>>教程地址：http://pandas.pydata.org/pandas-docs/stable/tutorials.html
+
+>>速 查 表：https://www.dataquest.io/blog/pandas-cheat-sheet/
 
 ### 1.2 Pandas exercise
 These pandas exercise are come from https://github.com/guipsamora
