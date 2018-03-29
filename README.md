@@ -5,7 +5,8 @@
 ## 1. Pandas
 ### 1.1 Pandas tutorials
 教程地址：http://pandas.pydata.org/pandas-docs/stable/tutorials.html
-###1.2 Pandas exercise
+
+### 1.2 Pandas exercise
 These pandas exercise are come from https://github.com/guipsamora
 
 Special thanks to: https://github.com/guipsamora for sharing the dataset and materials.
