@@ -1,3 +1,3 @@
 # Learning-Materials
-Learning materials (Pandas、Numpy)
+学习资料
 **Content**
