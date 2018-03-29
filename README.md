@@ -5,6 +5,7 @@
 ## 1. Pandas
 ### 1.1 Pandas tutorials
 教程地址：http://pandas.pydata.org/pandas-docs/stable/tutorials.html
+速 查 表：https://www.dataquest.io/blog/pandas-cheat-sheet/
 
 ### 1.2 Pandas exercise
 These pandas exercise are come from https://github.com/guipsamora
@@ -13,7 +14,7 @@ Special thanks to: https://github.com/guipsamora for sharing the dataset and mat
 
 ## 2 Numpy 
 ### 2.1 Numpy tutorials
-
+快速教程：https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
 
 ### 2.2 Numpy exercise
 
